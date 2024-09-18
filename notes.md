@@ -51,6 +51,12 @@
     It will save all the changes, time, author details and we can revert back to any unwanted changes
 
     ```bash
-        git commit -m "remarks"
+        git commit -m "remarks - to explain changes"
     ```
-    --doing another changes while committing
+    --doing another changes and using below to see the list of  commits
+
+    ```bash
+        git log
+    ```
+# revert back to previous commits
+
