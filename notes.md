@@ -49,4 +49,8 @@
 # Repository (Repo)
     > Location to store projects including all the files and history of their changes
     It will save all the changes, time, author details and we can revert back to any unwanted changes
-    
+
+    ```bash
+        git commit -m "remarks"
+    ```
+    --doing another changes while committing
