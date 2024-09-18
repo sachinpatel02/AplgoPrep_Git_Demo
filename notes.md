@@ -61,3 +61,16 @@
 # revert back to previous commits
 
 * `git chackout #hashcode` --> to go back to the previous changes
+* `git checkout main` --> to come back to the current channges or latest commit which is called Head.
+* `git branch` --> to check the current branch name
+
+======================================
+# pusing code to the GitHub
+
+--> create reposioty in GitHub and then we can push the code to it
+
+* `git remote add origin https://github.com/sachinpatel02/AplgoPrep_Git_Demo.git` --> adding remote url
+
+* `git branch -M main` --> going to main branch
+
+* `git push -u origin main` --> pushing to github
