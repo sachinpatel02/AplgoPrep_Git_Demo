@@ -60,3 +60,4 @@
     ```
 # revert back to previous commits
 
+* `git chackout #hashcode` --> to go back to the previous changes
